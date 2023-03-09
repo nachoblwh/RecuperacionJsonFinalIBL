@@ -1,0 +1,63 @@
+{
+  "jugadoresPerdidas" : [ {
+    "name" : "Daniel Olmo Carvajal",
+    "loses" : 10
+  }, {
+    "name" : "Nicolò Barella",
+    "loses" : 6
+  }, {
+    "name" : "Mikel Oyarzabal Ugarte",
+    "loses" : 6
+  }, {
+    "name" : "Ciro Immobile",
+    "loses" : 5
+  }, {
+    "name" : "Pedro González López",
+    "loses" : 5
+  }, {
+    "name" : "Federico Chiesa",
+    "loses" : 4
+  }, {
+    "name" : "Leonardo Bonucci",
+    "loses" : 3
+  }, {
+    "name" : "Andrea Belotti",
+    "loses" : 3
+  }, {
+    "name" : "Marco Verratti",
+    "loses" : 2
+  }, {
+    "name" : "Domenico Berardi",
+    "loses" : 2
+  }, {
+    "name" : "Sergio Busquets i Burgos",
+    "loses" : 2
+  }, {
+    "name" : "Álvaro Borja Morata Martín",
+    "loses" : 2
+  }, {
+    "name" : "Lorenzo Insigne",
+    "loses" : 1
+  }, {
+    "name" : "Gerard Moreno Balaguero",
+    "loses" : 1
+  }, {
+    "name" : "Jorge Resurrección Merodio",
+    "loses" : 1
+  }, {
+    "name" : "Emerson Palmieri dos Santos",
+    "loses" : 1
+  }, {
+    "name" : "Matteo Pessina",
+    "loses" : 1
+  }, {
+    "name" : "Manuel Locatelli",
+    "loses" : 1
+  }, {
+    "name" : "Ferrán Torres García",
+    "loses" : 1
+  }, {
+    "name" : "Jorge Luiz Frello Filho",
+    "loses" : 1
+  } ]
+}

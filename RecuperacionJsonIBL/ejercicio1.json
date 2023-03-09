@@ -1,0 +1,99 @@
+{
+  "teamScore" : [ {
+    "team" : "Spain",
+    "goals_done" : 13,
+    "goals_received" : 6
+  }, {
+    "team" : "Italy",
+    "goals_done" : 13,
+    "goals_received" : 4
+  }, {
+    "team" : "Denmark",
+    "goals_done" : 12,
+    "goals_received" : 7
+  }, {
+    "team" : "England",
+    "goals_done" : 11,
+    "goals_received" : 2
+  }, {
+    "team" : "Belgium",
+    "goals_done" : 9,
+    "goals_received" : 3
+  }, {
+    "team" : "Switzerland",
+    "goals_done" : 8,
+    "goals_received" : 9
+  }, {
+    "team" : "Netherlands",
+    "goals_done" : 8,
+    "goals_received" : 4
+  }, {
+    "team" : "Portugal",
+    "goals_done" : 7,
+    "goals_received" : 7
+  }, {
+    "team" : "France",
+    "goals_done" : 7,
+    "goals_received" : 6
+  }, {
+    "team" : "Croatia",
+    "goals_done" : 7,
+    "goals_received" : 8
+  }, {
+    "team" : "Ukraine",
+    "goals_done" : 6,
+    "goals_received" : 10
+  }, {
+    "team" : "Czech Republic",
+    "goals_done" : 6,
+    "goals_received" : 4
+  }, {
+    "team" : "Germany",
+    "goals_done" : 6,
+    "goals_received" : 7
+  }, {
+    "team" : "Sweden",
+    "goals_done" : 5,
+    "goals_received" : 4
+  }, {
+    "team" : "Austria",
+    "goals_done" : 5,
+    "goals_received" : 5
+  }, {
+    "team" : "Poland",
+    "goals_done" : 4,
+    "goals_received" : 6
+  }, {
+    "team" : "Hungary",
+    "goals_done" : 3,
+    "goals_received" : 6
+  }, {
+    "team" : "Wales",
+    "goals_done" : 3,
+    "goals_received" : 6
+  }, {
+    "team" : "Russia",
+    "goals_done" : 2,
+    "goals_received" : 7
+  }, {
+    "team" : "North Macedonia",
+    "goals_done" : 2,
+    "goals_received" : 8
+  }, {
+    "team" : "Slovakia",
+    "goals_done" : 2,
+    "goals_received" : 7
+  }, {
+    "team" : "Scotland",
+    "goals_done" : 1,
+    "goals_received" : 5
+  }, {
+    "team" : "Turkey",
+    "goals_done" : 1,
+    "goals_received" : 8
+  }, {
+    "team" : "Finland",
+    "goals_done" : 1,
+    "goals_received" : 3
+  } ]
+}
